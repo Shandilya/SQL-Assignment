@@ -1,6 +1,6 @@
 # SQL-Assignment
 Submitting SQL assignment
-# Homework Assignment
+
 
 ## Installation Instructions
 
