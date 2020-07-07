@@ -1,4 +1,4 @@
-# SQL-Assignment
+# SQL
 Submitting SQL assignment
 
 
